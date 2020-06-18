@@ -15,5 +15,19 @@
   "bugs": {
     "url": "https://github.com/qiushaoyu/vue-deploy-service/issues"
   },
-  "homepage": "https://github.com/qiushaoyu/vue-deploy-service#readme"
+  "homepage": "https://github.com/qiushaoyu/vue-deploy-service#readme",
+  "dependencies": {
+    "gulp-shell": "^0.7.1",
+    "http-errors": "~1.6.3",
+    "request": "^2.88.0",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-scp2": "^0.2.0",
+    "gulp-ssh": "^0.7.0",
+    "moment": "^2.22.2",
+    "gulp-sequence": "^1.0.0",
+    "gulp-zip": "^4.2.0"
+  }
 }
