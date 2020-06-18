@@ -1,0 +1,19 @@
+{
+  "name": "vue-deploy-service",
+  "version": "1.0.0",
+  "description": "Vue项目可视化部署工具service层",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiushaoyu/vue-deploy-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qiushaoyu/vue-deploy-service/issues"
+  },
+  "homepage": "https://github.com/qiushaoyu/vue-deploy-service#readme"
+}
